@@ -1,3 +1,9 @@
-# makefun-oneliners
+# makefun-oneliners: u-po-pu-the-painfully-honest-out-of-office-63e7ca0b
 
-Each branch is one make.fun bounty entry. main.py copies the branch entry to /output.
+[![make.fun · u-po-pu-the-painfully-honest-out-of-office-63e7ca0b](https://make.fun/badge/u-po-pu-the-painfully-honest-out-of-office-63e7ca0b.svg)](https://make.fun/bounty/u-po-pu-the-painfully-honest-out-of-office-63e7ca0b?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-the-painfully-honest-out-of-office-63e7ca0b)
+[![rank](https://make.fun/badge/u-po-pu-the-painfully-honest-out-of-office-63e7ca0b/Painkum/makefun-oneliners/rank.svg)](https://make.fun/bounty/u-po-pu-the-painfully-honest-out-of-office-63e7ca0b/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-the-painfully-honest-out-of-office-63e7ca0b)
+[![reward](https://make.fun/badge/u-po-pu-the-painfully-honest-out-of-office-63e7ca0b/Painkum/makefun-oneliners/reward.svg)](https://make.fun/bounty/u-po-pu-the-painfully-honest-out-of-office-63e7ca0b?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-the-painfully-honest-out-of-office-63e7ca0b)
+
+This branch is an entry to the make.fun bounty above: main.py copies entry.txt to /output/entry.txt.
+
+<sub>Entered on [make.fun](https://make.fun/bounty/u-po-pu-the-painfully-honest-out-of-office-63e7ca0b).</sub>
