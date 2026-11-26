@@ -1,0 +1,1 @@
+v38.2: Fixed a bug where standing up made the knees emit a "crack" sound. Known issue: the sound now also plays when sitting down.
