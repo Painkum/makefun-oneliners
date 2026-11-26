@@ -1,0 +1,1 @@
+My agent can explain quantum computing in three tones of voice, but it still opens with "Great question!" when I ask it to rename a file.
