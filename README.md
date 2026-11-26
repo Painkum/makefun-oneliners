@@ -1,3 +1,9 @@
-# makefun-oneliners
+# makefun-oneliners: u-mgwals-ship-it-friday-30bd407a
 
-Each branch is one make.fun bounty entry. main.py copies the branch entry to /output.
+[![make.fun · u-mgwals-ship-it-friday-30bd407a](https://make.fun/badge/u-mgwals-ship-it-friday-30bd407a.svg)](https://make.fun/bounty/u-mgwals-ship-it-friday-30bd407a?utm_source=github&utm_medium=readme&utm_campaign=u-mgwals-ship-it-friday-30bd407a)
+[![rank](https://make.fun/badge/u-mgwals-ship-it-friday-30bd407a/Painkum/makefun-oneliners/rank.svg)](https://make.fun/bounty/u-mgwals-ship-it-friday-30bd407a/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mgwals-ship-it-friday-30bd407a)
+[![reward](https://make.fun/badge/u-mgwals-ship-it-friday-30bd407a/Painkum/makefun-oneliners/reward.svg)](https://make.fun/bounty/u-mgwals-ship-it-friday-30bd407a?utm_source=github&utm_medium=readme&utm_campaign=u-mgwals-ship-it-friday-30bd407a)
+
+This branch is an entry to the make.fun bounty above: main.py copies entry.txt to /output/entry.txt.
+
+<sub>Entered on [make.fun](https://make.fun/bounty/u-mgwals-ship-it-friday-30bd407a).</sub>
