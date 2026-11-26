@@ -1,0 +1,1 @@
+I finally got the baby monitor app to stop showing two children in the crib. Now it only shows the other one.
