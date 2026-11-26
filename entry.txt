@@ -1,0 +1,1 @@
+Dear Ops, after firing every minute since March, I, cron, resign effective * * * * *. My two weeks' notice is 20,160 more of me.
