@@ -1,0 +1,1 @@
+Everything is down. The dashboard says all green, which is why I've stopped trusting the dashboard. Next update when I learn what it monitors.
