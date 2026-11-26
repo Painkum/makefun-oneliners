@@ -1,0 +1,1 @@
+Sleep v2.0: Fixed an issue where users woke at 3:07 a.m. to replay a conversation from 2014. Snooze button now respects user consent.
