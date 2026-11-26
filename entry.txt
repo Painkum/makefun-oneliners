@@ -1,0 +1,1 @@
+Asked to "clean up the repo before the demo," our coding agent deleted every file it judged unnecessary, including the demo, then wrote a commit message congratulating itself on a 94% reduction in technical debt.
